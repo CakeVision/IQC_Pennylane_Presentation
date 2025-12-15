@@ -3,4 +3,6 @@ name = "pycharmmiscproject"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "stim>=1.15.0",
+]
